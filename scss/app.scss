@@ -2,11 +2,11 @@
 
 @import 'bourbon';
 
+@import '../bower_components/font-awesome/scss/font-awesome';
+
 @import 'settings';
 @import 'foundation';
 // @import 'motion-ui';
-
-@import '../bower_components/font-awesome/scss/font-awesome';
 
 @include foundation-global-styles;
 @include foundation-grid;

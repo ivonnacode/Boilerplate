@@ -1,10 +1,4 @@
 @charset "UTF-8";
-/**
- * Foundation for Sites by ZURB
- * Version 6.2.3
- * foundation.zurb.com
- * Licensed under MIT Open Source
- */
 /*!
  *  Font Awesome 4.6.3 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
@@ -2196,6 +2190,12 @@
   overflow: visible;
   clip: auto; }
 
+/**
+ * Foundation for Sites by ZURB
+ * Version 6.2.3
+ * foundation.zurb.com
+ * Licensed under MIT Open Source
+ */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /**
    * 1. Set default font family to sans-serif.
