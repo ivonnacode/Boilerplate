@@ -1,11 +1,21 @@
 # Starter Boilerplate for all Projects
 
+A No setup, No hassle Boilerplate to delve right in and get your hands dirty
+
 ## Includes
 
 - Foundation 6
 - Bourbon
-- Initial File and Folder Architecture
-- Starter Defaults
-- CodeKit Configuration
+- Font Awesome Icons
+- Initial file and folder architecture
+- Starting framework and file imports
+- Starting Stylesheets and JavaScript minified
+- Starting index.html template
+- CodeKit configuration
+- & much more!
 
-For Me by [Me](http://twitter.com/ivanjjones) but feel free to use ;)
+## Created by
+
+[Me](http://github.com/ivonnacode)
+
+Feel free to use for your own projects ;)
