@@ -106,23 +106,22 @@ $header-font-family: $body-font-family;
 $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
-
 $header-sizes: (
   small: (
-    'h1': modular-scale(5, 1rem, $major-second),
-    'h2': modular-scale(4, 1rem, $major-second),
-    'h3': modular-scale(3, 1rem, $major-second),
-    'h4': modular-scale(2, 1rem, $major-second),
-    'h5': modular-scale(1, 1rem, $major-second),
-    'h6': modular-scale(0, 1rem, $major-second)
+    'h1': $h1-small,
+    'h2': $h2-small,
+    'h3': $h3-small,
+    'h4': $h4-small,
+    'h5': $h5-small,
+    'h6': $h6-small
   ),
   medium: (
-    'h1': modular-scale(5, 1rem, $major-third),
-    'h2': modular-scale(4, 1rem, $major-third),
-    'h3': modular-scale(3, 1rem, $major-third),
-    'h4': modular-scale(2, 1rem, $major-third),
-    'h5': modular-scale(1, 1rem, $major-third),
-    'h6': modular-scale(0, 1rem, $major-third)
+    'h1': $h1-medium,
+    'h2': $h2-medium,
+    'h3': $h3-medium,
+    'h4': $h4-medium,
+    'h5': $h5-medium,
+    'h6': $h6-medium
   ),
 );
 // $header-sizes: (
