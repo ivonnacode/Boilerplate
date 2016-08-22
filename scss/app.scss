@@ -2,14 +2,14 @@
 
 @import 'bourbon';
 
-@import '../bower_components/font-awesome/scss/font-awesome';
-
 // Foundation Modules via CodeKit
 @import 'header-sizes';
-@import 'spacing';
 @import 'hide-text';
 
 @import 'settings';
+
+@import '../bower_components/font-awesome/scss/font-awesome';
+
 @import 'foundation';
 // @import 'motion-ui';
 
@@ -61,7 +61,6 @@
 // Foundation Partials via CodeKit
 @import 'browsehappy';
 @import 'modifiers';
-@import 'sections';
 
 // Custom Partials
 @import 'partials/base';
